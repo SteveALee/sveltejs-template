@@ -4,6 +4,9 @@
 
   // List of extensions which should be recommended for users of this workspace.
   "recommendations": [
+    "jamesbirtles.svelte-vscode",
+    "ardenivanov.svelte-intellisense",
+
     "dbaeumer.vscode-eslint",
     "esbenp.prettier-vscode",
     "davidanson.vscode-markdownlint",

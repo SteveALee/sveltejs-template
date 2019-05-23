@@ -2,7 +2,7 @@
   export let name
 
   // eslint-disable-next-line no-constant-condition
-  if (3 == 4) {
+  if (3 != 4) {
     console.log('ooh er')
   }
 </script>
