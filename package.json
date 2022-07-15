@@ -24,7 +24,7 @@
     "sirv-cli": "^0.4.2",
     "stylelint": "^10.0.1",
     "stylelint-config-standard": "^18.3.0",
-    "svelte": "^3.4.2"
+    "svelte": "^3.49.0"
   },
   "scripts": {
     "build": "rollup -c",
